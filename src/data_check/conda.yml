@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10.0
-  - pandas=2.1.3
+  - python=3.7.16 # Updated to 3.7.16 for compatibility (was 3.10.0)
+  - pandas=1.3.5 # Changed to 1.3.5 (was 2.1.3)
   - pytest=6.2.2
-  - scipy=1.5.2
+  - scipy=1.5.2 # (Reversed) Updated to 1.7.0 for compatibility (was 1.5.2)
   - pip=23.3.1
   - pip:
-      - mlflow==2.8.1
+      - mlflow==1.26.0 # Changed to 1.26.0 (was 2.8.1)
       - wandb==0.16.0
