@@ -6,9 +6,10 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
-## Link to W&B
+## Link to W&B and GitHub repository
 
 Weights and Biases: https://wandb.ai/merut-wgu/nyc_airbnb?nw=nwusermerut
+GitHub repo: https://github.com/merutcar/Project-Build-an-ML-Pipeline-Starter-fork
 
 ## Table of contents
 
